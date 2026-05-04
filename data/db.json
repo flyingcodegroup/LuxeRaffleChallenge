@@ -1,0 +1,182 @@
+{
+  "raffles": [
+    {
+      "id": 1,
+      "name": "Ferrari 488 GTB",
+      "description": "Sleek Italian supercar with breathtaking performance.",
+      "image": "https://images.unsplash.com/photo-1701205143024-4d39391acd35",
+      "longDescription": "The Ferrari 488 GTB stands as a pinnacle of Italian engineering, delivering an exquisite blend of agility and raw power. Its twin-turbocharged V8 engine delivers stunning acceleration, while the sculpted bodywork is designed to maximize downforce and aerodynamic efficiency. Inside, you'll find a driver-centric cockpit clad in premium materials, merging comfort with race-inspired elements. The 488 GTB doesn't just represent speed, it represents a passion for automotive craftsmanship that only Ferrari can provide.",
+      "carPrice": 280000,
+      "ticketPrice": 40,
+      "totalTickets": 7000,
+      "availableTickets": 419
+    },
+    {
+      "id": 2,
+      "name": "Lamborghini Aventador",
+      "description": "Iconic V12 powerhouse with scissor doors.",
+      "image": "https://images.unsplash.com/photo-1648594756894-151b3eb89400",
+      "longDescription": "The Lamborghini Aventador is an icon of extreme design and performance, housing a thunderous naturally aspirated V12 engine that roars with authority. Its angular exterior, low stance, and trademark scissor doors ensure it stands out on any road or track. Step inside to discover an unapologetically sporty interior, blending carbon fiber and Alcantara to reduce weight and improve handling. It's a machine that feels as dramatic on the inside as it looks from the outside\u2014pure adrenaline for those seeking the ultimate supercar experience.",
+      "carPrice": 400000,
+      "ticketPrice": 50,
+      "totalTickets": 8000,
+      "availableTickets": 4208
+    },
+    {
+      "id": 3,
+      "name": "Rolls-Royce Phantom",
+      "description": "The epitome of luxury and comfort on wheels.",
+      "image": "https://images.unsplash.com/photo-1624804269473-828dcc30a210",
+      "longDescription": "Synonymous with opulence, the Rolls-Royce Phantom offers unmatched comfort in a whisper-quiet cabin adorned with the finest leathers and handcrafted wood trim. Its majestic presence and stately proportions signify prestige from every angle. Under the hood, a smooth V12 engine delivers effortless acceleration, ensuring that your journey is serene yet powerful. Stepping into the Phantom is like entering a private sanctuary on wheels, where every detail is meticulously crafted to exceed expectations.",
+      "carPrice": 450000,
+      "ticketPrice": 30,
+      "totalTickets": 15000,
+      "availableTickets": 10237
+    },
+    {
+      "id": 4,
+      "name": "Bentley Continental GT",
+      "description": "Grand tourer combining luxury with sporty dynamics.",
+      "image": "https://images.unsplash.com/photo-1678026548060-1448fb601299",
+      "longDescription": "The Bentley Continental GT strikes a perfect balance between refined elegance and thrilling performance. Powered by a robust engine\u2014be it the potent V8 or the legendary W12\u2014it offers a silky-smooth ride in city streets and a confident surge of power on open highways. Inside, the cabin is a showcase of fine materials, from quilted leather seats to hand-polished veneers. Every journey in the Continental GT becomes an event, uniting tradition, innovation, and comfort in a single grand touring masterpiece.",
+      "carPrice": 220000,
+      "ticketPrice": 20,
+      "totalTickets": 11000,
+      "availableTickets": 209
+    },
+    {
+      "id": 5,
+      "name": "Aston Martin DB11",
+      "description": "Elegant British sports car with timeless appeal.",
+      "image": "https://images.unsplash.com/photo-1642201855395-1c8b44e6e42b",
+      "longDescription": "The Aston Martin DB11 upholds the brand\u2019s legacy of marrying refined aesthetics with engaging performance. Its smooth exterior lines and signature grille exude confidence, while the engine\u2014available in both V8 and V12 forms\u2014provides thrilling acceleration. Inside, luxurious leathers and contemporary design cues envelope the driver in an environment of sophistication. The DB11 seamlessly balances everyday usability with a dynamic drive, making it a quintessential grand tourer that never compromises on style.",
+      "carPrice": 200000,
+      "ticketPrice": 20,
+      "totalTickets": 10000,
+      "availableTickets": 485
+    },
+    {
+      "id": 6,
+      "name": "Porsche 911 GT3 RS",
+      "description": "Track-focused version of the iconic 911.",
+      "image": "https://images.unsplash.com/photo-1699325635304-a2f409b06d19",
+      "longDescription": "The Porsche 911 GT3 RS is a track-focused machine that still remains street-legal, embodying the very best of Porsche\u2019s motorsport heritage. A naturally aspirated flat-six engine sings at high revs, delivering remarkable power to the rear wheels. Built with aggressive aerodynamics and weight-saving measures, the GT3 RS thrives on the racetrack, yet is surprisingly tame on daily roads. From the moment you grip the Alcantara steering wheel, you\u2019ll feel the decades of racing expertise poured into this remarkable 911 variant.",
+      "carPrice": 180000,
+      "ticketPrice": 20,
+      "totalTickets": 9000,
+      "availableTickets": 54
+    },
+    {
+      "id": 7,
+      "name": "Mercedes-AMG One",
+      "description": "F1 technology for the road in a hypercar package.",
+      "image": "https://images.unsplash.com/photo-1709733742025-449fda0ab131",
+      "longDescription": "The Mercedes-AMG One distills Formula 1 technology into a street-legal hypercar. Its hybrid powertrain, derived from championship-winning F1 engines, pushes automotive engineering into uncharted territories of performance. Active aerodynamics, advanced hybrid systems, and a cockpit brimming with motorsport-inspired controls make it a unique beast. From its eye-catching silhouette to the roar of its engine, the AMG One is a bold statement of Mercedes-AMG's commitment to the future of high-performance motoring.",
+      "carPrice": 2700000,
+      "ticketPrice": 60,
+      "totalTickets": 45000,
+      "availableTickets": 12819
+    },
+    {
+      "id": 8,
+      "name": "McLaren 720S",
+      "description": "Cutting-edge supercar with stunning performance.",
+      "image": "https://images.unsplash.com/photo-1638730558978-18941cc086ad",
+      "longDescription": "The McLaren 720S pairs advanced aerodynamics with a twin-turbocharged V8 to deliver breathtaking speed. With a lightweight carbon-fiber chassis, the 720S excels in agility and handling, hugging corners like a dedicated race car. Inside, the driver is treated to a sleek and minimalistic cockpit design, with the distinctive folding driver display that transitions between road and track modes. It\u2019s a supercar that blurs the line between precision engineering and artistic elegance.",
+      "carPrice": 300000,
+      "ticketPrice": 40,
+      "totalTickets": 7500,
+      "availableTickets": 2018
+    },
+    {
+      "id": 9,
+      "name": "Bugatti Chiron",
+      "description": "Engineering marvel capable of extreme speeds.",
+      "image": "https://images.unsplash.com/photo-1688417438893-7d4b4da14a87",
+      "longDescription": "The Bugatti Chiron stands at the pinnacle of hypercar performance, boasting an immense 8.0-liter W16 engine with quad turbos. Designed to surpass 400 km/h, it redefines what\u2019s possible in a production car. Yet despite its performance heritage, the Chiron\u2019s cabin is a haven of luxurious materials and refined craftsmanship. Every detail\u2014from the aerodynamics to the exotic interior\u2014serves a single purpose: to blend phenomenal speed with exquisite style.",
+      "carPrice": 3000000,
+      "ticketPrice": 60,
+      "totalTickets": 50000,
+      "availableTickets": 23871
+    },
+    {
+      "id": 10,
+      "name": "Koenigsegg Jesko",
+      "description": "Swedish hypercar pushing the boundaries of speed.",
+      "image": "https://images.unsplash.com/photo-1724091663890-d84c2abfb28b",
+      "longDescription": "The Koenigsegg Jesko is a showcase of Swedish engineering prowess, targeting record-breaking speeds with its twin-turbo V8 and advanced aerodynamics. Every panel and spoiler is carefully crafted to minimize drag and maximize downforce. Its interior is surprisingly refined, featuring modern design cues, premium materials, and the brand\u2019s signature dihedral synchro-helix doors. The Jesko pushes the boundaries of what's achievable in a road car, transforming the drive into a physics-defying experience.",
+      "carPrice": "2.800.000",
+      "ticketPrice": 70,
+      "totalTickets": 40000,
+      "availableTickets": 13993
+    },
+    {
+      "id": 11,
+      "name": "Pagani Huayra",
+      "description": "Artisanal hypercar with exquisite attention to detail.",
+      "image": "https://images.unsplash.com/photo-1635974631051-d21dbfdc4c8b",
+      "longDescription": "The Pagani Huayra is more than just a hypercar\u2014it's a work of art. Hand-built in Italy, it combines a Mercedes-AMG V12 with a lavish, sculpture-like interior that displays exposed carbon fiber, polished aluminum, and intricate leatherwork. Its gullwing doors and dramatic styling make a statement anywhere it goes. Each Huayra is customizable to an extraordinary degree, reflecting the owner\u2019s personal taste while always retaining Pagani\u2019s dedication to artisanal craftsmanship and raw performance.",
+      "carPrice": 2400000,
+      "ticketPrice": 60,
+      "totalTickets": 40000,
+      "availableTickets": 17207
+    },
+    {
+      "id": 12,
+      "name": "Maserati MC20",
+      "description": "Mid-engined Italian beauty with racing pedigree.",
+      "image": "https://images.unsplash.com/photo-1722797709475-2fbd19f27948",
+      "longDescription": "The Maserati MC20 marks a new era for the Italian marque, featuring a mid-mounted twin-turbo V6 engine developed entirely in-house. Its sleek silhouette is shaped for aerodynamic efficiency, balancing style and performance. Gullwing doors open to a minimalist interior that focuses on the driving experience, with advanced infotainment and refined comfort elements. The MC20 pays homage to Maserati\u2019s racing history while propelling the brand into the future of supercar design.",
+      "carPrice": 220000,
+      "ticketPrice": 20,
+      "totalTickets": 11000,
+      "availableTickets": 2311
+    },
+    {
+      "id": 13,
+      "name": "Audi R8 V10",
+      "description": "Everyday supercar with Lamborghini-derived V10 engine.",
+      "image": "https://images.unsplash.com/photo-1536150794560-43f988aec18e",
+      "longDescription": "The Audi R8 V10 combines supercar performance with the all-weather usability of Audi\u2019s quattro system (in most variants). Its naturally aspirated V10, shared with Lamborghini, delivers spine-tingling acceleration and a resonant exhaust note. Unlike many supercars, the R8 boasts everyday comfort features, making it a practical choice for those who want a thrilling drive without sacrificing refinement. Step inside, and you'll find modern technology paired with luxurious materials\u2014a perfect union of performance and comfort.",
+      "carPrice": 200000,
+      "ticketPrice": 20,
+      "totalTickets": 10000,
+      "availableTickets": 7801
+    },
+    {
+      "id": 14,
+      "name": "BMW M8 Competition",
+      "description": "High-performance luxury grand tourer.",
+      "image": "https://images.unsplash.com/photo-1711711112606-d08c2f2190b7",
+      "longDescription": "Blending luxury and high-octane performance, the BMW M8 Competition is a grand tourer that can keep pace with many dedicated sports cars. Equipped with a twin-turbo V8, it delivers explosive power across the rev range. The interior is sumptuously appointed, with high-quality leather and a cutting-edge infotainment system. Whether you're cruising on the highway or dominating the racetrack, the M8 Competition ensures comfort, style, and a pure driving thrill.",
+      "carPrice": 135000,
+      "ticketPrice": 15,
+      "totalTickets": 9000,
+      "availableTickets": 3480
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "jane.doe@gmail.com",
+      "password": "applejuice",
+      "firstName": "Jane"
+    }
+  ],
+  "orders": {
+    "b2a7acf1-da5d-41f2-bc4e-3e8504eb0841": {
+      "id": "b2a7acf1-da5d-41f2-bc4e-3e8504eb0841",
+      "items": [
+        {
+          "id": 1,
+          "quantity": 10
+        }
+      ]
+    }
+  },
+  "userOrders": {
+    "1": [
+      "b2a7acf1-da5d-41f2-bc4e-3e8504eb0841"
+    ]
+  }
+}
